@@ -13,6 +13,7 @@ Crear archivo JAR
 Crear un archivo Manifest.mf con el siguiente contenido:
 
 Manifest-version: 1.0
+
 Main-Class: cloud/Main
 
 En la segunda línea colocar el nombre de la clase que contiene el método public static void main (String[] args) {}
