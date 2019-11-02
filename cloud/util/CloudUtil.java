@@ -38,3 +38,4 @@ public class CloudUtil {
 	    return mac.toString().toUpperCase();
 	}
 }
+
