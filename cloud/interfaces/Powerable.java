@@ -10,3 +10,4 @@ interface Powerable
     public void suspend();
 
 }
+
