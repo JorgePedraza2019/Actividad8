@@ -72,3 +72,4 @@ public class NetworkCard extends VirtualDevice
 		return sb.toString();
 	}
 }
+
