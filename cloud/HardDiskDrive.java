@@ -55,3 +55,4 @@ public class HardDiskDrive extends VirtualDevice
 		return sb.toString();
 	}
 }
+
